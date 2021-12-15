@@ -1,11 +1,10 @@
 {
     "name": "faerie-fire",
     "displayName": "Faerie Fire",
-    "description": "A fun theme inspired by the Faerie Fire D&D spell",
-    "version": "0.0.1",
-    "repository": "https://github.com/joypauls/faerie-fire-theme",
+    "description": "A fun VS Code theme inspired by the Faerie Fire D&D spell",
+    "version": "0.0.3",
     "engines": {
-        "vscode": "^1.50.0"
+        "vscode": "^1.62.0"
     },
     "categories": [
         "Themes"
@@ -15,7 +14,7 @@
             {
                 "label": "Faerie Fire",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Faerie Fire-color-theme.json"
+                "path": "./themes/faerie-fire-color-theme.json"
             }
         ]
     }
